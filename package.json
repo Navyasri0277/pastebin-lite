@@ -1,1 +1,12 @@
-
+{
+  "name": "pastebin-lite",
+  "version": "1.0.0",
+  "description": "Simple pastebin clone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
